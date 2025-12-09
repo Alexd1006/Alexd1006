@@ -18,7 +18,7 @@ Backend-разработчик на Python с фокусом на создани
 ## 🚀 Мои ключевые проекты
 
 ### 1. Vertical Video Maker – Desktop приложение для создания видео
-[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/yourname/vertical-video-maker)
+[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/Alexd1006/vertical-video-maker)
 *Десктопное приложение с GUI для автоматического создания вертикальных видеороликов (1080x1920) из медиафайлов.*
 
 **Ключевые функции:**
@@ -32,7 +32,7 @@ Backend-разработчик на Python с фокусом на создани
 ---
 
 ### 2. Telegram-бот с Django REST API
-[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/yourname/telegram-bot-django-api)
+[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/Alexd1006/telegram-bot-django-api)
 *Микросервисная архитектура: бот + REST API для регистрации и управления пользователями.*
 
 **Ключевые функции:**
@@ -46,7 +46,7 @@ Backend-разработчик на Python с фокусом на создани
 ---
 
 ### 3. Консольная игра "Крестики-нолики"
-[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/yourname/tic-tac-toe-console)
+[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/Alexd1006/tic-tac-toe-console)
 *Классическая игра с продвинутой логикой и модульной архитектурой.*
 
 **Ключевые функции:**
@@ -59,7 +59,7 @@ Backend-разработчик на Python с фокусом на создани
 ---
 
 ## 📊 Активность
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=default)](https://github.com/yourname)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=default)](https://github.com/Alexd1006)
 
 ---
 
