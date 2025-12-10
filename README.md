@@ -46,7 +46,7 @@ Backend-разработчик на Python с фокусом на создани
 ---
 
 ### 3. Консольная игра "Крестики-нолики"
-[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/Alexd1006/tic-tac-toe-console)
+[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/Alexd1006/Krestiki_Noliki2_0)
 *Классическая игра с продвинутой логикой и модульной архитектурой.*
 
 **Ключевые функции:**
