@@ -32,7 +32,7 @@ Backend-разработчик на Python с фокусом на создани
 ---
 
 ### 2. Telegram-бот с Django REST API
-[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/Alexd1006/telegram-bot-django-api)
+[![GitHub](https://img.shields.io/badge/-Код_на_GitHub-181717?style=flat&logo=github)](https://github.com/Alexd1006/DjangoTelebot)
 *Микросервисная архитектура: бот + REST API для регистрации и управления пользователями.*
 
 **Ключевые функции:**
